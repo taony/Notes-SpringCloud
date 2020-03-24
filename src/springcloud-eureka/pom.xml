@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.devnote</groupId>
-    <artifactId>notes-springcloud</artifactId>
+    <artifactId>springcloud-eureka</artifactId>
     <version>1.0-SNAPSHOT</version>
     <modules>
         <module>spring-eureka-server</module>
