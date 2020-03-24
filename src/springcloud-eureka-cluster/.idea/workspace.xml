@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="25d47812-1a0f-40e1-9dd0-82e2f36bb971" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/src/main/java/org/devnotes/eureka/ConsumerApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/src/main/java/org/devnotes/eureka/controller/HelloController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-consumer/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/src/main/java/org/devnotes/eureka/ProviderApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/src/main/java/org/devnotes/eureka/controller/AccountController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/target/classes/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/target/maven-archiver/pom.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spring-eureka-provider/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-eureka-server01/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-eureka-server01/src/main/java/org/devnotes/eureka/EurekaServer01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-eureka-server02/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/springcloud-eureka-server02/src/main/java/org/devnotes/eureka/EurekaServer02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../doc/01.quick-start.assets/java4-1570462494.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../doc/01.quick-start.assets/spring-cloud.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../doc/01.quick-start.assets/springcloud.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../springcloud-eureka/spring-eureka-server/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../springcloud-eureka/spring-eureka-server/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="/opt/apache/maven/apache-maven-3.6.0" />
+        <option name="userSettingsFile" value="/opt/apache/maven/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ZZurZMT6L1cFZuqkUQJoNQbilo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/WorkSpace/itouch-framework" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="eureka" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ProviderApplication">
+    <configuration name="ConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-eureka-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.devnotes.eureka.ConsumerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="spring-eureka-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.devnotes.eureka.ProviderApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d47812-1a0f-40e1-9dd0-82e2f36bb971" name="Default Changelist" comment="" />
+      <created>1585059136835</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585059136835</updated>
+      <workItem from="1585059140200" duration="586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="710" y="238" width="1200" height="1009" key="#Project_Structure" timestamp="1585059563128">
+      <screen x="70" y="38" width="2490" height="1402" />
+    </state>
+    <state x="710" y="238" width="1200" height="1009" key="#Project_Structure/70.38.2490.1402@70.38.2490.1402" timestamp="1585059563128" />
+    <state x="386" y="279" width="1848" height="926" key="new project wizard" timestamp="1585059420581">
+      <screen x="70" y="38" width="2490" height="1402" />
+    </state>
+    <state x="386" y="279" width="1848" height="926" key="new project wizard/70.38.2490.1402@70.38.2490.1402" timestamp="1585059420581" />
+  </component>
+</project>
